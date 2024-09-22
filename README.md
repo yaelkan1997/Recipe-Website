@@ -88,7 +88,4 @@ The main page also includes a user login form, allowing registered users to log 
 ![User Login Main Page](https://github.com/yaelkan1997/Recipe-Website/blob/6a3425416905c8db41e5612254ca7598c3387b8a/assets/user%20login%20main%20page.png)
 
 # Demo
-<video width="600" height="400" controls>
-  <source src="https://github.com/yaelkan1997/Recipe-Website/blob/bfd12e998d817439b67ec5dcc241a0842179b8f6/assets/RecordedVideo%20(1).mp4" type="video/mp4">
-  Your browser does not support the video tag.
-</video>
+https://github.com/yaelkan1997/Recipe-Website/blob/bfd12e998d817439b67ec5dcc241a0842179b8f6/assets/RecordedVideo%20(1).mp4
