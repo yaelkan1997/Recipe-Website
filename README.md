@@ -53,7 +53,7 @@ The Recipe Website was created to make it easier for users to find and manage re
 
 ### 1. Create New Recipe
 This is the form for adding a new recipe. Users can input the title, image URL, preparation time, and mark the recipe as vegetarian, vegan, or gluten-free. They can also enter the ingredients and instructions.
-![Create New Recipe](./path_to_images/create_new_recipe.png)
+![Create New Recipe](./assets/Create New Recipe.png) 
 
 ### 2. Favorite Recipes
 This page shows the user's favorite recipes, which can be saved and accessed easily from the user's profile.
