@@ -51,39 +51,42 @@ The Recipe Website was created to make it easier for users to find and manage re
 
 ## Website Screenshots
 
-### 1. Create New Recipe
+### 1. About me
+![About me](https://github.com/yaelkan1997/Recipe-Website/blob/51ed0c769948bdfe066b96c4e986501711aff6b1/assets/about%20me.png)
+
+### 2. Create New Recipe
 This is the form for adding a new recipe. Users can input the title, image URL, preparation time, and mark the recipe as vegetarian, vegan, or gluten-free. They can also enter the ingredients and instructions.
 ![Create New Recipe](https://github.com/yaelkan1997/Recipe-Website/blob/2dafed27ebb6eae7aa2286a0738496b015a81bfc/assets/Create%20New%20Recipe.png)
 
-### 2. Favorite Recipes
+### 3. Favorite Recipes
 This page shows the user's favorite recipes, which can be saved and accessed easily from the user's profile.
 ![Favorite Recipes](https://github.com/yaelkan1997/Recipe-Website/blob/6a3425416905c8db41e5612254ca7598c3387b8a/assets/favorite%20recipes.png)
 
-### 3. Friends' Recipes
+### 4. Friends' Recipes
 This section displays recipes shared by friends. It’s a way for users to explore and try recipes from others.
 ![Friends Recipes](https://github.com/yaelkan1997/Recipe-Website/blob/6a3425416905c8db41e5612254ca7598c3387b8a/assets/friends%20recipes.png)
 
-### 4. Last Search Results
+### 5. Last Search Results
 The last search results are displayed here based on the user's input and selected filters.
 ![Last Search Results](https://github.com/yaelkan1997/Recipe-Website/blob/6a3425416905c8db41e5612254ca7598c3387b8a/assets/Last%20Search%20Results.png)
 
-### 5. My Recipes
+### 6. My Recipes
 This page displays the recipes that the user has personally created and saved.
 ![My Recipes](https://github.com/yaelkan1997/Recipe-Website/blob/6a3425416905c8db41e5612254ca7598c3387b8a/assets/my%20recipes.png)
 
-### 6. Random Recipes on Main Page
+### 7. Random Recipes on Main Page
 On the main page, users can explore random recipes, helping them find new dishes to try.
 ![Random Recipes](https://github.com/yaelkan1997/Recipe-Website/blob/6a3425416905c8db41e5612254ca7598c3387b8a/assets/random.png)
 
-### 7. User Registration
+### 8. User Registration
 This is the registration form where users can sign up by providing their username, personal information, and password.
 ![Register](https://github.com/yaelkan1997/Recipe-Website/blob/6a3425416905c8db41e5612254ca7598c3387b8a/assets/Register.png)
 
-### 8. Recipe Search Page
+### 9. Recipe Search Page
 Users can search for recipes by entering keywords and filtering by cuisine, diet, or intolerance.
 ![Search Recipes](https://github.com/yaelkan1997/Recipe-Website/blob/6a3425416905c8db41e5612254ca7598c3387b8a/assets/search.png)
 
-### 9. User Login on Main Page
+### 10. User Login on Main Page
 The main page also includes a user login form, allowing registered users to log in and access their personal area.
 ![User Login Main Page](https://github.com/yaelkan1997/Recipe-Website/blob/6a3425416905c8db41e5612254ca7598c3387b8a/assets/user%20login%20main%20page.png)
 
